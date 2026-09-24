@@ -125,18 +125,10 @@ I'm a final-year Biochemistry and Microbiology student who enjoys the point wher
 
 ---
 
-## GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bridgettgontse&theme=react-dark&hide_border=true&bg_color=0D1B2E&color=C8C0B0&line=1F3864&point=F0A500&area=true&area_color=44546A" alt="Activity Graph" width="100%"/>
-</p>
-
----
-
 ## Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gontse-bridgett-baloyi"><img src="https://img.shields.io/badge/LinkedIn-gontse--bridgett--baloyi-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/gontse-baloyi-79353625b/"><img src="https://img.shields.io/badge/LinkedIn-gontse--bridgett--baloyi-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:bridgettgontse@gmail.com"><img src="https://img.shields.io/badge/Email-bridgettgontse@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
