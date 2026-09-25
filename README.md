@@ -67,7 +67,7 @@ I'm a final-year Biochemistry and Microbiology student who enjoys the point wher
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/bridgettgontse/HIV-Elisa-Analysis" target="_blank">
+      <a href="https://github.com/Gontsebridgett/HIV-Elisa-Analysis" target="_blank">
         <strong>HIV Antibody Detection by ELISA</strong>
       </a>
       <br />
@@ -76,7 +76,7 @@ I'm a final-year Biochemistry and Microbiology student who enjoys the point wher
       <code>Python</code> <code>Pandas</code> <code>ELISA</code> <code>Diagnostics</code>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/bridgettgontse/PRC-Agarose-Gel-Electrophoresis" target="_blank">
+      <a href="https://github.com/Gontsebridgett/PRC-Agarose-Gel-Electrophoresis" target="_blank">
         <strong>PCR & Agarose Gel Electrophoresis</strong>
       </a>
       <br />
@@ -87,7 +87,7 @@ I'm a final-year Biochemistry and Microbiology student who enjoys the point wher
   </tr>
   <tr>
    <td width="50%" valign="top">
-      <a href="https://github.com/bridgettgontse/Antibiotic-Susceptibility-Testing" target="_blank">
+      <a href="https://github.com/Gontsebridgett/Antibiotic-Susceptibility-Testing" target="_blank">
         <strong>Antibiotic Susceptibility Testing (Kirby-Bauer)</strong>
       </a>
       <br />
@@ -96,7 +96,7 @@ I'm a final-year Biochemistry and Microbiology student who enjoys the point wher
       <code>Python</code> <code>Microbiology</code> <code>Data Visualisation</code>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/bridgettgontse/DNA-Isolation-Spectrophotometry" target="_blank">
+      <a href="https://github.com/Gontsebridgett/DNA-Isolation-Spectrophotometry" target="_blank">
         <strong>DNA Isolation & Spectrophotometry</strong>
       </a>
       <br />
@@ -107,7 +107,7 @@ I'm a final-year Biochemistry and Microbiology student who enjoys the point wher
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/bridgettgontse/LDH-Inhibition-Assay" target="_blank">
+      <a href="https://github.com/Gontsebridgett/LDH-Inhibition-Assay" target="_blank">
         <strong>LDH Inhibition Assay</strong>
       </a>
       <br />
@@ -116,7 +116,7 @@ I'm a final-year Biochemistry and Microbiology student who enjoys the point wher
       <code>Python</code> <code>SciPy</code> <code>Enzyme Kinetics</code> <code>Curve Fitting</code>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/bridgettgontse/lab-techniques-portfolio"><strong>Full Lab Techniques Portfolio</strong></a><br/>
+      <a href="https://github.com/Gontsebridgett/lab-techniques-portfolio"><strong>Full Lab Techniques Portfolio</strong></a><br/>
       12 practical lab-technique projects, each with a Python analysis script, sample data, and a written lab report — this is the best next click.<br/><br/>
       <code>Python</code> <code>Jupyter</code> <code>Lab Reports</code>
     </td>
