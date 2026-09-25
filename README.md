@@ -116,8 +116,8 @@ I'm a final-year Biochemistry and Microbiology student who enjoys the point wher
       <code>Python</code> <code>SciPy</code> <code>Enzyme Kinetics</code> <code>Curve Fitting</code>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Gontsebridgett/lab-techniques-portfolio"><strong>Full Lab Techniques Portfolio</strong></a><br/>
-      12 practical lab-technique projects, each with a Python analysis script, sample data, and a written lab report — this is the best next click.<br/><br/>
+      <a href="https://github.com/Gontsebridgett"><strong>GitHub Profile</strong></a><br/>
+      12 practical lab-technique projects, each with a Python analysis script, sample data, and a written lab report.<br/><br/>
       <code>Python</code> <code>Jupyter</code> <code>Lab Reports</code>
     </td>
   </tr>
