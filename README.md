@@ -67,7 +67,7 @@ I'm a final-year Biochemistry and Microbiology student who enjoys the point wher
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/bridgettgontse/Hiv-Elisa-Analysis" target="_blank">
+      <a href="https://github.com/bridgettgontse/HIV-Elisa-Analysis" target="_blank">
         <strong>HIV Antibody Detection by ELISA</strong>
       </a>
       <br />
