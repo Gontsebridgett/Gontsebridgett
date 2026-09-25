@@ -67,7 +67,7 @@ I'm a final-year Biochemistry and Microbiology student who enjoys the point wher
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/bridgettgontse/hiv-elisa-analysis" target="_blank">
+      <a href="https://github.com/bridgettgontse/Hiv-Elisa-Analysis" target="_blank">
         <strong>HIV Antibody Detection by ELISA</strong>
       </a>
       <br />
@@ -76,7 +76,7 @@ I'm a final-year Biochemistry and Microbiology student who enjoys the point wher
       <code>Python</code> <code>Pandas</code> <code>ELISA</code> <code>Diagnostics</code>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/bridgettgontse/pcr-agarose-gel-electrophoresis" target="_blank">
+      <a href="https://github.com/bridgettgontse/PRC-Agarose-Gel-Electrophoresis" target="_blank">
         <strong>PCR & Agarose Gel Electrophoresis</strong>
       </a>
       <br />
@@ -87,7 +87,7 @@ I'm a final-year Biochemistry and Microbiology student who enjoys the point wher
   </tr>
   <tr>
    <td width="50%" valign="top">
-      <a href="https://github.com/bridgettgontse/antibiotic-susceptibility-testing" target="_blank">
+      <a href="https://github.com/bridgettgontse/Antibiotic-Susceptibility-Testing" target="_blank">
         <strong>Antibiotic Susceptibility Testing (Kirby-Bauer)</strong>
       </a>
       <br />
@@ -96,7 +96,7 @@ I'm a final-year Biochemistry and Microbiology student who enjoys the point wher
       <code>Python</code> <code>Microbiology</code> <code>Data Visualisation</code>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/bridgettgontse/dna-isolation-spectrophotometry" target="_blank">
+      <a href="https://github.com/bridgettgontse/DNA-Isolation-Spectrophotometry" target="_blank">
         <strong>DNA Isolation & Spectrophotometry</strong>
       </a>
       <br />
@@ -107,7 +107,7 @@ I'm a final-year Biochemistry and Microbiology student who enjoys the point wher
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/bridgettgontse/ldh-inhibition-assay" target="_blank">
+      <a href="https://github.com/bridgettgontse/LDH-Inhibition-Assay" target="_blank">
         <strong>LDH Inhibition Assay</strong>
       </a>
       <br />
